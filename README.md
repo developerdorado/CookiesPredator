@@ -23,4 +23,5 @@ Cookies predator is a perfect extension for web automations.
 ## Requirements
 
 The browser developer mode must be enabled.
+
 This extension works for all browsers that use chromium technology.
