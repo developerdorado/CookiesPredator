@@ -2,7 +2,7 @@
 
 Cookies predator is a perfect extension for web automations.
 
-** Delete all browser data during the last week ** 
+**Delete all browser data during the last week** 
 
 - appcache
 - cache

@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Cookies Predator | Developer Dorado",
+    "description": "Developer Dorado",
+    "icons": {
+        "128": "src/icono.png"
+    },
+    "browser_action": {
+        "default_icon": "src/icono.png"
+    },
+    "background": {
+        "scripts": ["back.js"]
+    },
+    "permissions": ["tabs", "http://*/*", "http://*/", "https://*/", "cookies", "https://*/*", "storage", "webRequest", "webRequestBlocking", "proxy", "<all_urls>", "browsingData"]
+
+    
+}
